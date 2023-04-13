@@ -73,4 +73,5 @@ If creadentieals of sam incorrect
 brew install awscli
 aws configure
 ```
-Get credentials in aws IAM. 
+Get credentials in [aws IAM](https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up.html). 
+
