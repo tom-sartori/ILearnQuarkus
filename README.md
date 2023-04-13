@@ -64,3 +64,13 @@ Deploy this changeset? [y/N]: y
 ```
 Successfully created/updated stack - quarkus-http in eu-west-3
 ```
+
+
+
+
+If creadentieals of sam incorrect
+```shell
+brew install awscli
+aws configure
+```
+Get credentials in aws IAM. 
